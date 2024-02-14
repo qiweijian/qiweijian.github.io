@@ -194,7 +194,6 @@ proxy-groups:
       - HK
       - JP
       - SG
-      - TW
       - US
   - name: Netflix
     type: select
