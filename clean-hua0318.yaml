@@ -180,7 +180,6 @@ proxy-groups:
       - HK
       - JP
       - SG
-      - TW
       - US
       - "Traffic: 5.88 GB | 20 GB"
       - "Expire: 2024-03-18"
